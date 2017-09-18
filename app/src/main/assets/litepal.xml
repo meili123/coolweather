@@ -6,8 +6,8 @@
 <version value="1"/>
 <!--表格-->
 <list>
-    <mapping calss="com.coolweather.android.db.Province"/>
-    <mapping calss="com.coolweather.android.db.City"/>
-    <mapping calss="com.coolweather.android.db.County"/>
+    <mapping calss="com.example.c.coolweather.db.Province"/>
+    <mapping calss="com.example.c.coolweather.db.City"/>
+    <mapping calss="com.example.c.coolweather.db.County"/>
 </list>
 </litepal>
